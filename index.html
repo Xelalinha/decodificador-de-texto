@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./estilos/style.css">
+    <title>Decodificador de texto</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="./images/Logo.png" alt="Logo Alura" height="auto" width="5%">
+    </header>
+    <main class="conteudo">
+        <section class="conteudo_section">
+            <textarea class="conteudo_textarea" placeholder="Digite seu texto"></textarea>
+            <p class="conteudo_section_p">
+                <img src="./images/alerta.png" alt="alerta">
+                Apenas letras minúsculas e sem acento.
+            </p>
+            <div class="conteudo_section_div">
+                <button class="conteudo_section_div_botton" id="botao-1" onclick="btnEncriptar()">Criptografar</button>
+                <button class="conteudo_section_div_botton" id="botao-2" onclick="btnDesencriptar()">Descriptografar</button>
+            </div>
+        </section>
+        <div class="conteudo_div">
+            <textarea class="mensagem"></textarea>
+            <button class="conteudo_section_div_botton" id="Copiar" onclick="btnCopiar()">Copiar</button>
+        </div>
+    </main>
+    <footer class="rodape">
+        <p>Desenvolvido por Alex Gabriel de Araujo.</p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
