@@ -2,11 +2,11 @@
 
 # Decodificador de Texto - Challenge 01 Alura - Oracle]
 # Objetivo
-*Projeto criado com o intuito de utilizar todo o conhecimento inicial abordado durante este período inicial do curso.
+* Projeto criado com o intuito de utilizar todo o conhecimento inicial abordado durante este período inicial do curso.
 # Funcionalidade
-*O projeto tem como foco criptografar os textos digitados pelo usuário, ou também descriptografá-los
+* O projeto tem como foco criptografar os textos digitados pelo usuário, ou também descriptografá-los
 # Acesso
-*https://decodificador-de-texto-nine-phi.vercel.app
+* https://decodificador-de-texto-nine-phi.vercel.app
 # Tecnologias Utilizadas
 - `Técnologia 1`:HTML
 - `Técnologia 2`:CSS
