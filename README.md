@@ -1,10 +1,16 @@
 ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge)
 
-# Índice 
+#Decodificador de Texto - Challenge 01 Alura - Oracle]
+#Objetivo
+*Projeto criado com o intuito de utilizar todo o conhecimento inicial abordado durante este período inicial do curso.
+#Funcionalidade
+*O projeto tem como foco criptografar os textos digitados pelo usuário, ou também descriptografá-los
+#Acesso
+*https://decodificador-de-texto-nine-phi.vercel.app
+#Técnologias Utilizadas
+- `Técnologia 1`:HTML
+- `Técnologia 2`:CSS
+- `Técnologia 3`:JavaScript
+# Autores
 
-* [Decodificador de Texto - Challenge 01 Alura - Oracle](#Título-e-Imagem-de-capa)
-* [Projeto criado com o intuito de utilizar todo o conhecimento inicial abordado durante este período inicial do curso.](#descrição-do-projeto)
-* [O projeto tem como foco criptografar os textos digitados pelo usuário, ou também descriptografá-los](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso: https://decodificador-de-texto-nine-phi.vercel.app](#acesso-ao-projeto)
-* [Técnologias utilizadas: HTML, CSS e JavaScript](#tecnologias-utilizadas)
-* [Desenvolvedor: Alex Gabriel de Araujo](#pessoas-contribuidoras)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Alex Gabriel de Araujo](https://github.com/Xelalinha) 
