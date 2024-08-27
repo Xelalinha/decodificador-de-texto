@@ -13,4 +13,4 @@
 - `Técnologia 3`:JavaScript
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Alex Gabriel de Araujo](https://github.com/Xelalinha) 
+| [<img loading="lazy" src="[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/104734641?s=400&v=4)" width=115><br><sub>Alex Gabriel de Araujo](https://github.com/Xelalinha) 
