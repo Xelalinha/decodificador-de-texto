@@ -1,6 +1,6 @@
 ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge)
 
-# Decodificador de Texto - Challenge 01 Alura - Oracle]
+# Decodificador de Texto - Challenge 01 Alura - Oracle
 # Objetivo
 * Projeto criado com o intuito de utilizar todo o conhecimento inicial abordado durante este período inicial do curso.
 # Funcionalidade
